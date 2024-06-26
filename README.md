@@ -1,5 +1,5 @@
 <h2>🐧 Linux Fundamentals</h2>
-- [Linux Fundamentals 1]()
+- [Linux Fundamentals 1](https://github.com/Finley-Klee/Linux-Fundamentals-Part-1)
 - [Linux Fundamentals 2]()
 - [Linux Fundamentals 3]()
 
