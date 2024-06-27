@@ -1,9 +1,11 @@
 <h2>🐧 Linux Fundamentals</h2>
-- [Linux Fundamentals 1](https://github.com/Finley-Klee/Linux-Fundamentals-Part-1)
-- [Linux Fundamentals 2]()
-- [Linux Fundamentals 3]()
+
+ - [Linux Fundamentals 1](https://github.com/Finley-Klee/Linux-Fundamentals-Part-1)
+ - [Linux Fundamentals 2]()
+ - [Linux Fundamentals 3]()
 
 <h2>🌐 Network Exploitation Basics</h2>
+
 - [Introductory Networking]()
 - [Nmap]()
 - [Network Services]()
