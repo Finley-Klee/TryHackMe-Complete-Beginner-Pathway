@@ -2,12 +2,12 @@
 
  - [Linux Fundamentals 1](https://github.com/Finley-Klee/Linux-Fundamentals-Part-1)
  - [Linux Fundamentals 2](https://github.com/Finley-Klee/Linux-Fundamentals-Part-2)
- - [Linux Fundamentals 3]()
+ - [Linux Fundamentals 3](https://github.com/Finley-Klee/Linux-Fundamentals-Part-3)
 
 <h2>🌐 Network Exploitation Basics</h2>
 
-- [Introductory Networking]()
-- [Nmap]()
+- [Introductory Networking](https://github.com/Finley-Klee/Introductory-Networking)
+- [Nmap](https://github.com/Finley-Klee/Nmap)
 - [Network Services](https://github.com/Finley-Klee/Network-Services)
 - [Network Services 2](https://github.com/Finley-Klee/Network-Services-2)
 
