@@ -8,7 +8,7 @@
 
 - [Introductory Networking]()
 - [Nmap]()
-- [Network Services]()
+- [Network Services](https://github.com/Finley-Klee/Network-Services)
 - [Network Services 2]()
 
 <h2>🕸️ Web Hacking Fundamentals</h2>
