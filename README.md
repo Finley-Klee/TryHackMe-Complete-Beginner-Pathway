@@ -6,7 +6,6 @@
 
 <h2>🌐 Network Exploitation Basics</h2>
 
-- [Introductory Networking](https://github.com/Finley-Klee/Introductory-Networking)
 - [Nmap](https://github.com/Finley-Klee/Nmap)
 - [Network Services](https://github.com/Finley-Klee/Network-Services)
 - [Network Services 2](https://github.com/Finley-Klee/Network-Services-2)
