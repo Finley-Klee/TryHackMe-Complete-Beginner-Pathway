@@ -12,10 +12,20 @@
 
 <h2>🕸️ Web Hacking Fundamentals</h2>
 
+<p>Coming Soon</p>
+
 <h2>🔐 Cryptography</h2>
+
+<p>Coming Soon</p>
 
 <h2>🪟 Windows Exploitation Basics</h2>
 
+<p>Coming Soon</p>
+
 <h2>🪜 Shells and Privilege Escalation</h2>
 
+<p>Coming Soon</p>
+
 <h2>💻 Basic Computer Exploitation</h2>
+
+<p>Coming Soon</p>
